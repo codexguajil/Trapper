@@ -6,7 +6,7 @@ A web-based note-taking application.
 
 Frontend: 
 
-```git clone https://github.com/criteriamor/trapper-keeper-ui.git```
+```git clone git@github.com:criteriamor/Trapper.git```
 
 ```npm install```
 
